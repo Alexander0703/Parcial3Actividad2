@@ -4,13 +4,21 @@ Este proyecto contiene una serie de ejercicios prácticos en JavaScript que trab
 📁 Estructura del Proyecto
 text
 📂 proyecto-objetos/
+
 ├── auto.js               # Iteración sobre propiedades de un objeto
+
 ├── personas.js           # Modificación de propiedades de un objeto
+
 ├── alumnos.js            # Filtrado de objetos en un arreglo
+
 ├── arreglo.js            # Iteración sobre un arreglo de objetos
+
 ├── rectangulo.js         # Objeto con método (función como propiedad)
+
 ├── contarPropiedades.js  # Conteo de propiedades de un objeto
+
 └── README.md             # Este archivo
+
 📋 Descripción de los Archivos
 1. auto.js - Iteración sobre Propiedades
 Propósito: Muestra cómo recorrer todas las propiedades de un objeto usando for...in.
